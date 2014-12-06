@@ -63,16 +63,18 @@ public class MergeSort {
         return sorted;
     }
 
+    public void printArray(int[] array){
+        for(int k: array){
+            System.out.print(k + " ");
+        }
+    }
+
     public static  void  main(String[] args){
         MergeSort myMergeSort = new MergeSort();
         int[] myArray = myMergeSort.randomArray(6);
         myMergeSort.mergeSort(myArray,0,myArray.length-1);
 
-        for(int k: myArray){
-            System.out.print(k + " ");
-        }
-
-        System.out.println(myMergeSort.isSorted(myArray));
+        myMergeSort.printArray(myArray);
     }
 }
 
