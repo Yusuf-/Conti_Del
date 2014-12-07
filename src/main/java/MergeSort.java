@@ -63,8 +63,8 @@ public class MergeSort {
         return sorted;
     }
     // New method
-    public void printName(){
-        System.out.println("My name is Yusuf");
+    public void printNumber(){
+        System.out.println(5);
     }
     public void printArray(int[] array){
         for(int k: array){
