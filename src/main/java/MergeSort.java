@@ -72,6 +72,10 @@ public class MergeSort {
         }
     }
 
+    public void randomMethod(){
+
+    }
+
     public static  void  main(String[] args){
         MergeSort myMergeSort = new MergeSort();
         int[] myArray = myMergeSort.randomArray(6);
