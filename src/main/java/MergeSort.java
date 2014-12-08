@@ -2,10 +2,6 @@
  * Created by Yusuf on 6-12-2014.
  */
 
-public void jeWeetNie(){
-        System.out.println("Je weeht nie wieh ihk benh");
-        }
-
 public class MergeSort {
 
     public int[] randomArray(int size){
