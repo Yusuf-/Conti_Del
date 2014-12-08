@@ -2,6 +2,7 @@
  * Created by Yusuf on 6-12-2014.
  */
 public class MergeSort {
+
     public int[] randomArray(int size){
         int[] array = new int[size];
         for(int i = 0; i < array.length; i++){
