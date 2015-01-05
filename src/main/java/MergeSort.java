@@ -92,7 +92,7 @@ public class MergeSort {
     public static  void  main(String[] args){
         MergeSort myMergeSort = new MergeSort();
         int[] myArray = myMergeSort.randomArray(6);
-        myMergeSort.mergeSort(myArray,0,myArray.length);
+        myMergeSort.mergeSort(myArray,0,myArray.length -1);
 
         for(int k: myArray){
             System.out.print(k + " ");
