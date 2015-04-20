@@ -8,7 +8,9 @@
     <artifactId>MergeSort</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-
+    <scm>
+        <developerConnection>scm:git:git://github.com/Conti_Del.git</developerConnection>
+    </scm>
     <reporting>
         <plugins>
             <plugin>
