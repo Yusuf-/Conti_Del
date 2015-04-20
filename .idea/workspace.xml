@@ -62,8 +62,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23822714" vertical-offset="101" max-vertical-offset="1071">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.47368422" vertical-offset="67" max-vertical-offset="1088">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -551,7 +551,7 @@
       <workItem from="1421850714266" duration="2383000" />
       <workItem from="1429099816987" duration="377000" />
       <workItem from="1429534031392" duration="654000" />
-      <workItem from="1429545564354" duration="2329000" />
+      <workItem from="1429545564354" duration="2986000" />
     </task>
     <task id="LOCAL-00001" summary="5 Dec 16.37&#10;">
       <created>1420472257519</created>
@@ -613,11 +613,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429547946842</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20 Apr 18.38&#10;Release project">
+      <created>1429547990556</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1429547990556</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27620000" />
+    <option name="totallyTimeSpent" value="28277000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1022,8 +1028,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23822714" vertical-offset="101" max-vertical-offset="1071">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.47368422" vertical-offset="67" max-vertical-offset="1088">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
